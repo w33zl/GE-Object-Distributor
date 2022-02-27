@@ -28,7 +28,8 @@ I love to hear you feedback so please check out my [Facebook](https://www.facebo
 4. (Re)start Giants Editor
 
 ## Prepare (getting started)
-The script requires a node (transform group) with two child nodes ("source" and "target"). You can either set this up manually or use the supplied _Configure Node_ script (recommended).
+The script requires a node (transform group) with two child nodes ("source" and "target"). You can either set this up manually or use the supplied _Configure Node_ script (recommended). 
+
 
 **This is the expected node structure:**
 ```
@@ -40,6 +41,16 @@ The script requires a node (transform group) with two child nodes ("source" and 
 ```
 
 > Note: The name of the main node doesn't matter, however "source" and "target" must have these exact names (unless specifically configured otherwise, see "Configure" section below) *
+
+### Automatically configure node via the script
+If using the script the child nodes "source" and "target" will be automatically created along with different settings available.
+
+[![image](https://user-images.githubusercontent.com/7383510/155886082-24aeb8b3-9088-4a10-a444-24ea2c2703cc.png)](https://user-images.githubusercontent.com/7383510/155886155-06960e07-97cc-4f29-99a6-a7c666f1512d.png)
+
+
+This is the expected output after running the script:
+
+[![image](https://user-images.githubusercontent.com/7383510/155886127-d39d4ec1-586f-4740-9fcc-060b107271a9.png)](https://user-images.githubusercontent.com/7383510/155886093-cd19a891-0965-4ba6-84d2-75c3df4fc0c0.png)
 
 
 ### Configure
