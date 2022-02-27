@@ -2,7 +2,7 @@
 
 At the heart of it, _Object Distributor_ is a script for Giants Editor that will replace any number of objects with any custom object, similar to an advanced search and replace. The script can be used to place trees, light poles or other objects on a map. This is especially useful in combination with a random/procedurally generated collection of objects (destination markers).
 
-The script gives control on the rotation and tilt of the replaced object and also support different kinds of randomization (e.g. rotation and angle of trees or placing rocks of different sizes).
+The script gives control of the rotation and tilt of the replaced object and also support different kinds of randomization (e.g. rotation and angle of trees or placing rocks of different sizes).
 
 ![image](https://user-images.githubusercontent.com/7383510/155875595-58f485cf-1d14-4687-ad35-6eb44cbd7eb7.png)
 
