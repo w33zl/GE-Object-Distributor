@@ -30,6 +30,8 @@ I love to hear you feedback so please check out my [Facebook](https://www.facebo
 ## Prepare (getting started)
 The script requires a node (transform group) with two child nodes ("source" and "target"). You can either set this up manually or use the supplied _Configure Node_ script (recommended).
 
+Please refer to the [user guide](UserGuide.pdf) for detailed explanation.
+
 **This is the expected node structure:**
 ```
 - "Main node"
