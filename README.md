@@ -32,12 +32,15 @@ The script requires a node (transform group) with two child nodes ("source" and 
 
 **This is the expected node structure:**
 ```
-- Main node (transform group)
+- "Main node"
   - source
     - (one or more sourece objects)
   - target
     - (one or more target objects/destination markers)
 ```
+
+> Note: The name of the main node doesn't matter, however "source" and "target" must have these exact names (unless specifically configured otherwise, see "Configure" section below) *
+
 
 ### Configure
 After running the _Configure Node_ script you should have a number of settings/configurations on your main node. These settings control the behaviour of the _Distribute Objects_ script.
