@@ -50,7 +50,8 @@ If using the script the child nodes "source" and "target" will be automatically 
 
 This is the expected output after running the script:
 
-[![image](https://user-images.githubusercontent.com/7383510/155886127-d39d4ec1-586f-4740-9fcc-060b107271a9.png)](https://user-images.githubusercontent.com/7383510/155886093-cd19a891-0965-4ba6-84d2-75c3df4fc0c0.png)
+[![image](https://user-images.githubusercontent.com/7383510/155886127-d39d4ec1-586f-4740-9fcc-060b107271a9.png)](https://user-images.githubusercontent.com/7383510/155886191-02ee1173-9856-4077-a12c-39628c475059.png)
+
 
 
 ### Configure
