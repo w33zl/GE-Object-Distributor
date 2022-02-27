@@ -21,7 +21,7 @@ I love to hear you feedback so please check out my [Facebook](https://www.facebo
 * Randomly choose source object from a collection of objects (e.g. different sized objects)
 
 ## Installation
-1. Download the zip archive
+1. Download the [latest release](https://github.com/w33zl/GE-Object-Distributor/releases/download/v0.9.2-beta/GE_Object_Distributor_v0.9.2beta.zip) (zip archive)
 2. Extract the contents to a temporary place
 3. Copy the entire `"WZL Object Distributor"` folder to the `"%LocalAppData%\GIANTS Editor 64bit 9.0.2\scripts\"` folder _(you might need to change the version number if using a different version of Giants Editor)_
    * Optionally you could also drag-and-drop the `"WZL Object Distributor"` folder onto the supplied shortcut *(only works if you are using version 9.0.2)*
