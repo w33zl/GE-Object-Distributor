@@ -28,7 +28,8 @@ I love to hear you feedback so please check out my [Facebook](https://www.facebo
 4. (Re)start Giants Editor
 
 ## Prepare (getting started)
-The script requires a node (transform group) with two child nodes ("source" and "target"). You can either set this up manually or use the supplied _Configure Node_ script (recommended).
+The script requires a node (transform group) with two child nodes ("source" and "target"). You can either set this up manually or use the supplied _Configure Node_ script (recommended). 
+
 
 Please refer to the [user guide](UserGuide.pdf) for detailed explanation.
 
@@ -42,6 +43,17 @@ Please refer to the [user guide](UserGuide.pdf) for detailed explanation.
 ```
 
 > Note: The name of the main node doesn't matter, however "source" and "target" must have these exact names (unless specifically configured otherwise, see "Configure" section below) *
+
+### Automatically configure node via the script
+If using the script the child nodes "source" and "target" will be automatically created along with different settings available.
+
+[![image](https://user-images.githubusercontent.com/7383510/155886082-24aeb8b3-9088-4a10-a444-24ea2c2703cc.png)](https://user-images.githubusercontent.com/7383510/155886155-06960e07-97cc-4f29-99a6-a7c666f1512d.png)
+
+
+This is the expected output after running the script:
+
+[![image](https://user-images.githubusercontent.com/7383510/155886127-d39d4ec1-586f-4740-9fcc-060b107271a9.png)](https://user-images.githubusercontent.com/7383510/155886191-02ee1173-9856-4077-a12c-39628c475059.png)
+
 
 
 ### Configure
@@ -57,5 +69,8 @@ After running the _Configure Node_ script you should have a number of settings/c
 3. Select the main node
 4. Execute _Distribute Objects_ script.
 5. Check the log for errors and warnings
+
+[![image](https://user-images.githubusercontent.com/7383510/155886272-f73ff98e-41f4-4fc2-920f-c4dae16c1fc5.png)](https://user-images.githubusercontent.com/7383510/155886264-90170bf3-77a3-4f93-8b11-e7fffaf338f0.png)
+
 
 Please refer to the [user guide](UserGuide.pdf) for more details.
