@@ -45,6 +45,9 @@ The script requires a node (transform group) with two child nodes ("source" and 
 ### Configure
 After running the _Configure Node_ script you should have a number of settings/configurations on your main node. These settings control the behaviour of the _Distribute Objects_ script.
 
+![image](https://user-images.githubusercontent.com/7383510/155885792-78dea4b0-b234-49e5-872f-cf5b0f0d92d3.png)
+
+
 ## Usage (replace objects)
 
 1. Add one (or more) source objects as childs to the "source" node
