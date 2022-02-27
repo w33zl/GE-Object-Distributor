@@ -68,4 +68,7 @@ After running the _Configure Node_ script you should have a number of settings/c
 4. Execute _Distribute Objects_ script.
 5. Check the log for errors and warnings
 
+[![image](https://user-images.githubusercontent.com/7383510/155886272-f73ff98e-41f4-4fc2-920f-c4dae16c1fc5.png)](https://user-images.githubusercontent.com/7383510/155886264-90170bf3-77a3-4f93-8b11-e7fffaf338f0.png)
+
+
 Please refer to the [user guide](UserGuide.pdf) for more details.
